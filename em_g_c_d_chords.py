@@ -21,8 +21,8 @@ ax[1].set_ylabel('G Chord', rotation=0, fontsize=15, labelpad=45)
 ax[2].set_ylabel('C Chord', rotation=0, fontsize=15, labelpad=45)
 ax[3].set_ylabel('D Chord', rotation=0, fontsize=15, labelpad=45)
 
-ax[3].set_xlim(0, 10000)
-ax[3].set_xticks([500*i for i in range(1,21)])
+ax[3].set_xlim(0, 4000)
+ax[3].set_xticks([500*i for i in range(1,9)])
 ax[3].set_xlabel('Frequency (Hz)', fontsize=15)
 
 alpha = .75
