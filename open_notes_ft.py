@@ -27,7 +27,7 @@ ax[3].set_ylabel('G', rotation=0, fontsize=15, labelpad=45)
 ax[4].set_ylabel('B', rotation=0, fontsize=15, labelpad=45)
 ax[5].set_ylabel('High E', rotation=0, fontsize=15, labelpad=50)
 
-ax[5].set_xlim(0, 10000)
+ax[5].set_xlim(0, 4000)
 ax[5].set_xticks([500*i for i in range(1,21)])
 ax[5].set_xlabel('Frequency (Hz)', fontsize=15)
 
