@@ -13,7 +13,6 @@ plot(y);
 n = length(y);
 
 yfft = abs(fft(y));
-%yfft = yfft/n; What is this line?
 yfft = yfft(1:n/2+1);
 
 fs = 44100;
