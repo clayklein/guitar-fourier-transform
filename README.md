@@ -4,6 +4,6 @@ Using matlab and a microphone on a headset, audio from my guitar was recorded an
 
 ![](Open_notes_seperate_small_scale.png)
 
-The graph below shows to Fourier transform of some chords.
+The graph below shows the Fourier transform of some chords.
 
 ![](Em_g_c_d_chords.png)
